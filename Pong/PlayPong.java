@@ -10,6 +10,7 @@ public class PlayPong extends JFrame
 		pack();
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setVisible(true);
+		//Testing some stuff
 	}
 
 	public static void main(String[] args)
